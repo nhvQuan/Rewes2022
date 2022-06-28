@@ -71231,7 +71231,7 @@ T(a,b){var s,r,q=null,p=A.ae(["/Detail",new A.a32()],t.N,t.Ab),o=A.alS(q,q,q,q,q
 o=A.arJ(B.n7,A.apa(q,B.n7,q,q,q,0,q,q,q,q,q,q,q,q,q,q,q,q),B.eg,B.z,B.eg,o)
 s=t.p
 r=A.aY(q,new A.e7(new A.a4(0,10,0,0),A.f_(A.b([A.a0T(!1,!0,A.aq8("rewes.png",150,80),q,!0,q,q,q,q,q,q,q,q,q,new A.a30(),q,q,q),new A.e7(new A.a4(0,15,0,0),A.eQ(A.b([A.cO("H\u1ec6 TH\u1ed0NG QUAN TR\u1eaeC ",q,q,q,q,A.bG(q,q,B.bW,q,q,q,q,q,q,q,q,11,q,B.c0,q,q,!0,q,q,q,q,q,q,q,q),q,q,q),A.cO("TH\u1edcI GIAN TH\u1ef0C TR\u1ef0C TUY\u1ebeN",q,q,q,q,A.bG(q,q,B.bW,q,q,q,q,q,q,q,q,11,q,B.c0,q,q,!0,q,q,q,q,q,q,q,q),q,q,q)],s),B.L,B.cK,B.G),q),A.a0T(!1,!0,A.aq8("logo_KHTN.png",65,58),q,!0,q,q,q,q,q,q,q,q,q,new A.a31(),q,q,q)],s),B.L,B.aE,B.G),q),q,q,q,q,q,q,q,q)
-return new A.yu(A.ari(new A.we(r,!1,new A.R8(q,q,1/0,56),q),A.eF(B.ak,A.b([new A.xM(q)],s),B.ap,q)),p,"/","Rewes",o,!1,q)}}
+return new A.yu(A.ari(new A.we(r,!1,new A.R8(q,q,1/0,56),q),A.eF(B.ak,A.b([new A.xM(q)],s),B.ap,q)),p,"/","Flutter Demo",o,!1,q)}}
 A.a30.prototype={
 $0(){var s=0,r=A.a_(t.P)
 var $async$$0=A.a0(function(a,b){if(a===1)return A.X(b,r)
